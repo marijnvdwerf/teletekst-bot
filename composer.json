@@ -1,0 +1,15 @@
+{
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "schellie\\teletekstbot\\": "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.0",
+    "marijnvdwerf/teletekst": "dev-master",
+    "vlucas/phpdotenv": "^2.0",
+    "symfony/var-dumper": "^2.7",
+    "slim/slim": "^2.6"
+  }
+}

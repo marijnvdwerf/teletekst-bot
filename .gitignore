@@ -1,0 +1,6 @@
+vendor/
+storage/status/*
+storage/tmp/*
+storage/offset.txt
+!.gitkeep
+.env
